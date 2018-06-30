@@ -1,0 +1,268 @@
+header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 900px;
+    text-align: center;
+    height: 70px;
+    background-color: antiquewhite;
+}
+
+body {
+    margin: auto;
+    background-color: #669966;
+    width: 900px;
+    height: 100%;
+    margin-top: -20px;
+}
+
+nav {
+    float: center;
+    margin-top: 0px;
+    color: black;
+    font-family: sans-serif;
+    position: relative;
+}
+
+main {
+    font-family: sans-serif;
+    font-size: 10pt;
+    background-color: antiquewhite;
+    margin: 0px;
+    display: block;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+footer {
+    color: white;
+    background-color: black;
+    height: auto;
+    padding: 10px 10px 10px 15px;
+    text-align: center;
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 20px;
+    margin-right: 20px;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.mainphoto {
+    margin-left: 0;
+    margin-top: -20px;
+    background-image: url(../images/picture900.jpg);
+    background-repeat: no-repeat;
+    height: 250px;
+}
+
+.nav {
+    background-color: black;
+    text-align: center;
+    padding: 10px 30px;
+}
+
+.nav-link {
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 18pt;
+    color: white;
+    text-decoration-color: white;
+    text-decoration-line: none;
+}
+
+.nav-selected {
+    background-color: #6B4C20;
+}
+
+.img-thumbnail {
+    width: 225px;
+    height: 300px;
+    padding: 10px;
+    float: right;
+}
+
+.featured {
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    background-image: url(../images/featured2.jpg);
+    background-repeat: no-repeat;
+    width: 300px;
+    height: 200px;
+    margin-left: 30%;
+}
+
+.div-block {
+    height: auto;
+    display: block;
+    overflow: auto;
+}
+
+.div-text {
+    width: 68%;
+    height: auto;
+    padding-left: 2%;
+    float: left;
+    display: inline-block;
+}
+
+.div-text-wide {
+    height: auto;
+    padding-left: 2%;
+    padding-right: 2%;
+    float: left;
+    display: inline-block;
+}
+
+.div-img {
+    width: 30%;
+    height: auto;
+    float: right;
+    display: inline-block;
+}
+
+.text-par {
+    font-size: 15pt;
+    margin-top: 5px;
+    margin-left: 2%;
+    padding-top: 5px;
+    display: block;
+}
+
+.text-header {
+    font-size: 20pt;
+    font-weight: bold;
+    margin-top: 5px;
+    padding-top: 5px;
+    display: block;
+}
+
+.text-important {
+    font-size: 18pt;
+    font-style: italic;
+    text-decoration: underline;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.text-kinda-important {
+    font-size: 18pt;
+    font-style: italic;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.text-emphasis {
+    font-size: 16pt;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-left: 2%;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.text-emphasis-now-with-bold {
+    font-size: 16pt;
+    font-weight: bold;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.text-less-emphasis {
+    font-size: 12pt;
+    margin-top: 5px;
+    padding-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    display: block;
+}
+
+.text-title {
+    font-size: 28pt;
+}
+
+.text-caption {
+    display:block;
+    font-size: 15pt;
+    font-weight: bold;
+}
+
+.text-center {
+    display: block;
+    text-align: center;
+}
+
+.map {
+    width: 100%;
+    height: 500px;
+}
+
+.tab-in-list {
+    list-style-type: none;
+}
+
+.columns {
+    column-count: 4;
+}
+
+.sponsor-img {
+    display: block;
+    margin-left: 15%;
+}
+
+.nice-list {
+    line-height: 30px;
+}
+
+.img-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.margin-vert {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.list-center {
+    margin: auto;
+    width: 35%;
+}
+
+.test1 {
+    width: auto;
+    height: auto;
+    padding-left: 2%;
+    float: left;
+}
+
+.test2 {
+    width: auto;
+    height: auto;
+    padding-right: 2%;
+    float: right;
+}
+
+.contact-table {
+    text-align: left;
+    width: 100%;
+}
+
+.contact-table-row {
+    width: 50%;
+}
