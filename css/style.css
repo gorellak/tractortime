@@ -68,7 +68,7 @@ hr {
 .nav-link {
     padding-left: 5%;
     padding-right: 5%;
-    font-size: 18pt;
+    font-size: 16pt;
     color: white;
     text-decoration-color: white;
     text-decoration-line: none;
@@ -126,7 +126,7 @@ hr {
 }
 
 .text-par {
-    font-size: 15pt;
+    font-size: 13pt;
     margin-top: 5px;
     margin-left: 2%;
     padding-top: 5px;
@@ -134,7 +134,7 @@ hr {
 }
 
 .text-header {
-    font-size: 20pt;
+    font-size: 18pt;
     font-weight: bold;
     margin-top: 5px;
     padding-top: 5px;
@@ -144,7 +144,6 @@ hr {
 .text-important {
     font-size: 18pt;
     font-style: italic;
-    text-decoration: underline;
     margin-top: 5px;
     padding-top: 5px;
     margin-bottom: 5px;
@@ -153,7 +152,7 @@ hr {
 }
 
 .text-kinda-important {
-    font-size: 18pt;
+    font-size: 15pt;
     font-style: italic;
     margin-top: 5px;
     padding-top: 5px;
